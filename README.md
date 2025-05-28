@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehdi – Full-Stack Java Developer | DevOps Enthusiast | Tech Problem-Solver
+# 👋 Hi, I'm Mehdi – Full-Stack Java Developer | DevOps Enthusiast | Tech Problem-Solver 
 
 Welcome to my GitHub! I'm a passionate software developer based in Morocco, currently working on large-scale digital transformation projects with an international company. I specialize in building scalable backends using **Java & Spring Boot**, crafting responsive frontends with **React**, and automating deployments with **CI/CD pipelines**.
 
